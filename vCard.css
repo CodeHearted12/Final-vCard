@@ -1,0 +1,43 @@
+.header h1 {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  color:white;
+  background: black;
+  margin: 0;
+  padding: 27px;
+
+}
+
+.story {
+
+  display: flex;
+  flex-wrap: wrap;
+  width: 208px;
+}
+
+
+.story h2{
+  font-size: 35px;
+}
+
+.basics h2{
+  font-size: 35px;
+}
+
+img {
+  border-radius: 100%;
+  width: 115px
+}
+.wrapper {
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 160px;
+  position: relative;
+  top: -90px;
+}
+
+span {
+  color: green;
+}
